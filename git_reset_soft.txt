@@ -7,3 +7,7 @@ Esta es la versión 3
 Esto es una prueba de git_reset_head
 
 Ahora sí lo vamos a enviar
+
+Pero primero vamos a editarlo
+
+Ya lo corregimos
