@@ -8,4 +8,6 @@ Y de cómo aprendió a usar git checkout
 
 Master 1 
 
+Master 2
+
 También vamos a modificar este archivo para usar git_reset_head
